@@ -1,0 +1,10 @@
+﻿'ConfigProject1.exe' (Win32): Loaded 'C:\Users\ISHAN\OneDrive\Desktop\ConfigProject1\x64\Debug\ConfigProject1.exe'. Symbols loaded.
+'ConfigProject1.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'ConfigProject1.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'ConfigProject1.exe' (Win32): Loaded 'C:\Program Files\Avast Software\Avast\aswhook.dll'. 
+'ConfigProject1.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+The thread 0x5bb8 has exited with code 0 (0x0).
+'ConfigProject1.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'ConfigProject1.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0x8aa8 has exited with code 0 (0x0).
+The program '[30048] ConfigProject1.exe' has exited with code 0 (0x0).
